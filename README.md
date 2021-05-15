@@ -1,4 +1,4 @@
-# Face_GUI
+# Face_Detection_GUI
 In this project you can detect the Human faces, while using Face detection Gui.
 ## How to use 
 Install the requirements text file to install all the dependencies. 
