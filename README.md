@@ -2,6 +2,8 @@
 In this project you can detect the Human faces, while using Face detection Gui.
 ## How to use 
 Install the requirements text file to install all the dependencies. 
+## GUI Preview
+![](https://github.com/kairavpatel/Face_GUI/blob/ea48d7a65b960e6a8a2b6454282beee2354a0621/Gui.JPG)
 ## Features
 - **Imag**: Please select the one image, in which you want to detect the faces.
 - **CFG**: Select CFG file of the model.
